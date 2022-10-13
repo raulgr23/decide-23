@@ -3,6 +3,8 @@
 Plataforma voto electrónico educativa
 =====================================
 
+Cambio en la rama master
+
 Un cambio
 
 Segundo cambio
