@@ -13,6 +13,7 @@ from django.core.exceptions import ObjectDoesNotExist
 
 from .serializers import UserSerializer
 
+# Comentario de prueba
 
 class GetUserView(APIView):
     def post(self, request):
